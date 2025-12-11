@@ -30,7 +30,7 @@
 #define B_FC3_LEN    10
 
 #define DATASET_LEN  10000*28*28
-#define LABEL_LEN    10000
+#define LABEL_LEN    10
 #define N_CLASS      10
 
 //void Inference_Phase(unsigned char, float, float,float, float, float, float, float, float, float, float, float);
